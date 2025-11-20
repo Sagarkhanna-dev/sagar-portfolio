@@ -166,19 +166,6 @@ npm (comes with Node.js)
 Installation
 Clone the repository
 
-bash
-git clone https://github.com/your-username/myportfolio.git
-cd myportfolio
-Install dependencies
-
-bash
-npm install
-Start the development server
-
-bash
-npm run dev
-Open your browser
-Navigate to http://localhost:5173
 
 📜 Available Scripts
 npm run dev - Start development server
