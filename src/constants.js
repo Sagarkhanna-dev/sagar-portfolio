@@ -91,7 +91,7 @@ export const SkillsInfo = [
       img: jagranLogo,
       school: "Jagran College Of Arts, Science & Commerce, Kanpur",
       date: "Aug 2023 - May 2026",
-      grade: "7.04 CGPA",
+      grade: "7.05 CGPA",
       desc: "I am currently pursuing my Bachelor's degree in Computer Application (BCA) and am in my final year (3rd year) from Jagran College Of Arts, Science & Commerce, Kanpur. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at Jagran College allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of Computer Application - BCA ",
     },
