@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website built with React and Vite, showc
 
 
 🚀 Live Demo
-[Add your live website link here]
+https://sagar-khanna-portfolio.netlify.app/
 
 ✨ Features
     Modern Dark Theme: Sleek dark UI with purple accents and glowing effects
@@ -166,19 +166,6 @@ npm (comes with Node.js)
 Installation
 Clone the repository
 
-bash
-git clone https://github.com/your-username/myportfolio.git
-cd myportfolio
-Install dependencies
-
-bash
-npm install
-Start the development server
-
-bash
-npm run dev
-Open your browser
-Navigate to http://localhost:5173
 
 📜 Available Scripts
 npm run dev - Start development server
@@ -188,26 +175,6 @@ npm run build - Build for production
 npm run preview - Preview production build
 
 npm run lint - Run ESLint
-
-🔧 Configuration
-EmailJS Setup
-Create an account at EmailJS
-
-Update your EmailJS credentials in the Contact component:
-
-javascript
-// In your Contact component
-const serviceID = 'your_service_id';
-const templateID = 'your_template_id';
-const publicKey = 'your_public_key';
-Environment Variables
-Create a .env file in the root directory:
-
-env
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
-VITE_CONTACT_EMAIL=your-email@domain.com
 
 📱 Responsive Design
 The portfolio is fully responsive and optimized for:
@@ -261,7 +228,7 @@ GitHub: https://github.com/Sagarkhanna-dev
 
 LinkedIn: https://www.linkedin.com/in/sagar-khanna-19a739376/
 
-Portfolio: [Add your portfolio link here]
+Portfolio: https://sagar-khanna-portfolio.netlify.app/
 
 🙏 Acknowledgments
 React team for the excellent framework
